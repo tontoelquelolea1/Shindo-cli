@@ -1,0 +1,10 @@
+# Ignorar archivos temporales de búsqueda
+*.txt
+/tmp/shindo_*
+
+# Ignorar basura de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de sistema
+.DS_Store
